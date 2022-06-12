@@ -2,7 +2,9 @@
 # countdown
 <h4>Desafio proposto na trilha Discovery da RocketSeat</h4>
 <hr>
+
 ### O que aprendi com esse desafio
+
 * Algumas propriedades css,
 * Display grid, 
 * Display flex, 
